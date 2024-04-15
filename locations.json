@@ -1,38 +1,33 @@
+
 [
   {
-    "name": "Roanoke",
-    "open_status": 2,
-    "close_status": 0
+    "name": "Leanne Graham",
+    "age": 2,
+    "salary": 0
   },
   {
-    "name": "Salem",
-    "open_status": 2,
-    "close_status": 0
+    "name": "Ervin Howell",
+    "age": 2,
+    "salary": 0
   },
   {
-    "name": "Daleville",
-    "open_status": 2,
-    "close_status": 0
+    "name": "Clementine Bauch",
+    "age": 2,
+    "salary": 0
   },
   {
-    "name": "Hardy",
-    "open_status": 2,
-    "close_status": 0
+    "name": "Patricia Lebsack",
+    "age": 0,
+    "salary": 2
   },
   {
-    "name": "Blacksburg",
-    "open_status": 0,
-    "close_status": 2
+    "name": "Leanne Bell",
+    "age": 0,
+    "salary": 2
   },
   {
-    "name": "Christiansburg",
-    "open_status": 0,
-    "close_status": 2
-  }
-  ,
-  {
-    "name": "Lexington",
-    "open_status": 2,
-    "close_status": 0
+    "name": "Chelsey Dietrich",
+    "age": 2,
+    "salary": 2
   }
 ]
