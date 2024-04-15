@@ -1,32 +1,32 @@
 [
   {
     "name": "Roanoke",
-    "open": 1,
-    "close": 0
+    "close": 1,
+    "open": 0
   },
   {
     "name": "Salem",
-    "open": 1,
-    "close": 0
+    "close": 1,
+    "open": 0
   },
   {
     "name": "Daleville",
-    "open": 1,
-    "close": 0
+    "close": 1,
+    "open": 0
   },
   {
     "name": "Westlake",
-    "open": 0,
-    "close": 1
+    "close": 0,
+    "open": 1
   },
   {
     "name": "Blacksburg",
-    "open": 0,
-    "close": 1
+    "close": 0,
+    "open": 1
   },
   {
     "name": "Christiansburg",
-    "open": 1,
-    "close": 0
+    "close": 1,
+    "open": 0
   }
 ]
