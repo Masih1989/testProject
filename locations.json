@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Roanoke",
+    "Status": 1
+  },
+  {
+    "name": "Salem",
+    "Status": 2
+  },
+  {
+    "name": "Daleville",
+    "Status": 1
+  },
+  {
+    "name": "Hardy",
+    "Status": 1
+  },
+  {
+    "name": "Blacksburg",
+    "Status": 1
+  },
+  {
+    "name": "Christiansburg",
+    "Status": 2
+  }
+  ,
+  {
+    "name": "Lexington",
+    "Status": 2
+  }
+]
