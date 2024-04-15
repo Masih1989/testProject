@@ -1,32 +1,32 @@
 [
   {
     "name": "Leanne Graham",
-    "open": 3000,
-    "close": 38
+    "open": 1000,
+    "close": 1
   },
   {
     "name": "Ervin Howell",
-    "open": 27,
-    "close": 2300
+    "open": 1000,
+    "close": 1
   },
   {
     "name": "Clementine Bauch",
-    "open": 17,
-    "close": 2400
+    "open": 1000,
+    "close": 1
   },
   {
     "name": "Patricia Lebsack",
-    "open": 42,
-    "close": 2800
+    "open": 1000,
+    "close": 1
   },
   {
     "name": "Leanne Bell",
-    "open": 4000,
-    "close": 38
+    "open": 1000,
+    "close": 1
   },
   {
     "name": "Chelsey Dietrich",
-    "open": 32,
-    "close": 3500
+    "open": 1000,
+    "close": 1
   }
 ]
