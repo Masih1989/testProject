@@ -1,31 +1,38 @@
 [
   {
     "name": "Roanoke",
-    "Status": 2
+    "open_status": 2
+    "close_status": 0
   },
   {
     "name": "Salem",
-    "Status": 4
+    "open_status": 2
+    "close_status": 0
   },
   {
     "name": "Daleville",
-    "Status": 2
+    "open_status": 2
+    "close_status": 0
   },
   {
     "name": "Hardy",
-    "Status": 2
+    "open_status": 2
+    "close_status": 0
   },
   {
     "name": "Blacksburg",
-    "Status": 2
+    "open_status": 0
+    "close_status": 2
   },
   {
     "name": "Christiansburg",
-    "Status": 4
+    "open_status": 0
+    "close_status": 2
   }
   ,
   {
     "name": "Lexington",
-    "Status": 4
+    "open_status": 2
+    "close_status": 0
   }
 ]
