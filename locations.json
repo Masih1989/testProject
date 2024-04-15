@@ -5,7 +5,7 @@
   },
   {
     "name": "Salem",
-    "Status": 3
+    "Status": 4
   },
   {
     "name": "Daleville",
@@ -21,11 +21,11 @@
   },
   {
     "name": "Christiansburg",
-    "Status": 3
+    "Status": 4
   }
   ,
   {
     "name": "Lexington",
-    "Status": 3
+    "Status": 4
   }
 ]
