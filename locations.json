@@ -2,32 +2,26 @@
 [
   {
     "name": "Leanne Graham",
-    "age": 4,
-    "salary": 2
+    "age": 4
   },
   {
     "name": "Ervin Howell",
-    "age": 4,
-    "salary": 2
+    "age": 2
   },
   {
     "name": "Clementine Bauch",
-    "age": 4,
-    "salary": 2
+    "age": 4
   },
   {
     "name": "Patricia Lebsack",
-    "age": 4,
-    "salary": 2
+    "age": 4
   },
   {
     "name": "Leanne Bell",
-    "age": 2,
-    "salary": 4
+    "age": 4
   },
   {
     "name": "Chelsey Dietrich",
-    "age": 2,
-    "salary": 4
+    "age": 2
   }
 ]
